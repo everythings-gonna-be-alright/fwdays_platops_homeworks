@@ -1,4 +1,4 @@
-# Config Operator
+# Kubebuilder homework
 
 This is just a demo project to check how the config operator works. It was created as homework for a platform engineering course.
 

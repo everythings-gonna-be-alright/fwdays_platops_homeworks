@@ -1,6 +1,7 @@
-# AWS CDK demo
+# AWS CDK homework
 
 In this case I didn't face any challenges. Everything is clear
+Stack create 3 buckets, provide access to them and thats all.
 
 ## Logs
 

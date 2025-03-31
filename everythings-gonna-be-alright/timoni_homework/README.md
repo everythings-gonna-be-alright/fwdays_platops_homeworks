@@ -1,11 +1,11 @@
 # Timoni homework
 
-## Report
+## Report about any challenges faced ans sollutions
 
-I cant run application from .yaml files. It works only from .cue files.
-Also imposible to create moudle without module name in command. ( `timoni mod init my-web-app` - correct. `timoni mod init` - incorrect ).
+I can't run application from .yaml files. It works only from .cue files.
+Also impossible to create module without module name in command. (`timoni mod init my-web-app` - correct. `timoni mod init` - incorrect).
 
-I use standart timoni template with some minor changes.
+I use standard timoni template with some minor changes.
 
 ## Logs of single installation
 
@@ -34,7 +34,7 @@ web-prod-6f978d48d5-td8f2   1/1     Running   0          16s
 web-prod-6f978d48d5-xvq6j   1/1     Running   0          16s
 ```
 
-## Logs of bunle installation
+## Logs of bundle installation
 
 ```bash
 timoni_homework:main* λ timoni bundle apply -f bundle.cue
