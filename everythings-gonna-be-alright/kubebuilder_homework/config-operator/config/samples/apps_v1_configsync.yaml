@@ -1,0 +1,12 @@
+apiVersion: apps.example.com/v1
+kind: ConfigSync
+metadata:
+  name: configsync-sample
+spec:
+  configMapName: my-config
+  data:
+    putin: "khuylo"
+    app.properties: |
+      app.name=MyApp
+      app.version=1.0.0
+  updateInterval: 30
